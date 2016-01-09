@@ -10,7 +10,7 @@
 	"name": "theme-darcula",
 	"displayName": "Darcula Theme",
 	"description": "Darcula Theme for VS Code based on IntelliJ Darcula",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"publisher": "ceps",
 	"engines": {
 		"vscode": "^0.10.1"
