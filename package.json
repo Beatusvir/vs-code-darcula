@@ -20,10 +20,10 @@
 	"engines": {
 		"vscode": "^0.10.1"
 	},
-    "homepage": "https://github.com/Microsoft/vscode-spell-check/blob/master/README.md",
+    "homepage": "https://github.com/Beatusvir/vs-code-darcula/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Microsoft/vscode-spell-check.git"
+        "url": "https://github.com/Beatusvir/vs-code-darcula"
     },
 	"categories": [
 		"Themes"
