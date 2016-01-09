@@ -1,0 +1,31 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "676fa8e5-f781-48e4-a6eb-c703f8111d87",
+		"downloadUrl": "https://ceps.gallery.vsassets.io/_apis/public/gallery/publisher/ceps/extension/theme-darcula/0.0.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+		"publisherId": "08da0eab-61b8-4810-b9cb-e373845d5c16",
+		"publisherDisplayName": "ceps",
+		"date": "2016-01-07T19:36:57.77Z",
+        "icon": "images/darcula.svg"
+	},
+	"name": "theme-darcula",
+	"displayName": "Darcula Theme",
+	"description": "Darcula Theme for VS Code based on IntelliJ Darcula",
+	"version": "0.0.3",
+	"publisher": "ceps",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Darcula",
+				"uiTheme": "vs-dark",
+				"path": "./themes/darcula.tmTheme"
+			}
+		]
+	}
+}
