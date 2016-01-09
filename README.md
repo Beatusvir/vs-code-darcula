@@ -1,2 +1,5 @@
 # Darcula Theme
 Darcula theme based on IntelliJ Darcula.
+
+### Screenshot
+![Theme Screenshot](https://github.com/Beatusvir/vs-code-darcula/images/screenshot.png)
