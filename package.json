@@ -6,7 +6,11 @@
 		"publisherId": "08da0eab-61b8-4810-b9cb-e373845d5c16",
 		"publisherDisplayName": "ceps",
 		"date": "2016-01-07T19:36:57.77Z",
-        "icon": "images/darcula.svg"
+        "icon": "images/darcula.svg",
+        "galleryBanner": {
+            "color": "#1f5b93",
+            "theme": "dark"
+        }
 	},
 	"name": "theme-darcula",
 	"displayName": "Darcula Theme",
@@ -16,6 +20,11 @@
 	"engines": {
 		"vscode": "^0.10.1"
 	},
+    "homepage": "https://github.com/Microsoft/vscode-spell-check/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Microsoft/vscode-spell-check.git"
+    },
 	"categories": [
 		"Themes"
 	],
